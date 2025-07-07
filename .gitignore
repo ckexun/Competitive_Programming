@@ -1,0 +1,7 @@
+
+*.pdf
+Project1
+cpp/*
+!cpp/*.cpp
+!cpp/*.h
+test.cpp
